@@ -1,0 +1,3 @@
+[submodule "hello.js"]
+	path = hello.js
+	url = https://github.com/MrSwitch/hello.js.git
